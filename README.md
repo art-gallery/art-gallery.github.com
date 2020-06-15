@@ -1,2 +1,2 @@
-# art-gallery.github.com
+# art-gallery.github.io
 Website for art
